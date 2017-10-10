@@ -1,5 +1,5 @@
 # project fs worpdress
-wrodpress
+sviluppo tema worpdress
 
 ### Licenza
 Rilasciato su [licenza MIT](LICENSE).
