@@ -1,0 +1,19 @@
+{
+  "name": "project fs worpdress",
+  "version": "1.0.0",
+  "description": "sviluppo tema worpdress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EleonoraSpinelli/wordpress.git"
+  },
+  "author": "eleonora",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EleonoraSpinelli/wordpress/issues"
+  },
+  "homepage": "https://github.com/EleonoraSpinelli/wordpress#readme"
+}
